@@ -1,6 +1,8 @@
 Online Multiplayer Pacman
 David Tsatsoulis
 
+Standalone available in the Builds folder. Simply run and enjoy!
+
 This game is an online multiplayer version of the classic game Pacman.
 
 CONTROLS
